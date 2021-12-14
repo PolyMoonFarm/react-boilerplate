@@ -6,10 +6,19 @@
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "@web3-react/core": "^6.1.9",
+    "@web3-react/injected-connector": "^6.0.7",
+    "bnc-onboard": "^1.36.0",
+    "husky": "^7.0.4",
+    "jest": "26.6.0",
+    "prettier": "^2.5.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
-    "web-vitals": "^1.0.1"
+    "redux": "^4.1.2",
+    "standard-version": "^9.3.2",
+    "web-vitals": "^1.0.1",
+    "web3": "^1.6.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -34,5 +43,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "devDependencies": {}
 }
