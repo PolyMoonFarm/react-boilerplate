@@ -2,7 +2,7 @@
 
 ## Why ?
 
-To start frontend projects with preconfigured React in a fast, beautiful way, with maintenance and good practices. In this boilerplate you can interact with wallets through Web3.js
+This boilerplate is easy to use to start any frontend project and have many wallet providers to connect easily. (For example Metamask, Torus, Opera, etc)
 
 ---
 
@@ -20,7 +20,6 @@ This boilerplate includes:
 - [Webpack](https://webpack.js.org/)
 - [Jest](https://jestjs.io/)
 - [Prettier](https://prettier.io/)
-- [Eslint](https://eslint.org/)
 - [Husky](https://www.npmjs.com/package/husky)
 - [Web3](https://web3js.readthedocs.io/en/v1.5.2/)
 - [Onboard](https://docs.blocknative.com/onboard)

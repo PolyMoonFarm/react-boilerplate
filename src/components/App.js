@@ -1,4 +1,3 @@
-import "./App.css";
 import Web3 from "web3";
 import Onboard from "bnc-onboard";
 
